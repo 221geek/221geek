@@ -49,7 +49,7 @@ const me = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=221geek&hide_border=true&theme=radical" />
 </details>
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity </summary>
   <br/>
 <a href="https://github.com/221geek/">
   <img alt="Abdoul Aziz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=221geek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -77,3 +77,6 @@ const me = {
 <p align="center">
   <img src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif" width="300">
 </p>
+
+
+
