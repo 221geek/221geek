@@ -31,7 +31,7 @@ const me = {
 ```
 
 - 📫 How to reach me: abdoulazizdione1997@gmail.com;
-- 📙 Check out my [Resume]();
+- 📙 Check out my [Resume](https://github.com/221geek/221geek/blob/main/resume.pdf);
 
 
 <details>	
