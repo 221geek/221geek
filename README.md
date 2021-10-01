@@ -31,7 +31,7 @@ const me = {
 ```
 
 - 📫 How to reach me: abdoulazizdione1997@gmail.com;
-- 📙 Check out my [Resume](https://github.com/221geek/221geek/blob/main/resume.pdf);
+- 📙 Check out my [Resume](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5dca35e4-26de-4ac3-86cf-055d760034ae/CV_2021-09-29_Abdoul_Aziz_Dione.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211001%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211001T135134Z&X-Amz-Expires=86400&X-Amz-Signature=f2328d59ddbfcd9f4315d5c4309a092a9c529fd1b13d63c5cdae20d1b05606be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CV_2021-09-29_Abdoul%2520Aziz_Dione.pdf%22);
 
 
 <details>	
