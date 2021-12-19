@@ -20,7 +20,7 @@ const me = {
   education: {
     UVS: "Bachelor in mathematics and computer science",
     Sonatel Academy: "Web Developement"
-   },
+  },
   job: "Full Stack Web Developer",
   languages_and_Technologies: [Javascript, Ruby, Typescript, HTML, CSS, PHP, SQL, NodeJS],
   frameworks_and_Libraries: [React, Angular, NestJS, Ruby on Rails, Nx, ExpressJS, Bootstrap, Tailwinds, Symfony, Flutter, Meterial UI, Wordpress Redux, Jest],
