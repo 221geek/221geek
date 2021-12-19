@@ -22,10 +22,10 @@ const me = {
     Sonatel Academy: "Web Developement"
    },
   job: "Full Stack Web Developer",
-  languages_and_Technologies: [Javascript, Typescript, HTML, CSS, PHP, SQL, NodeJS],
-  frameworks_and_Libraries: [React, Angular, NestJS, Nx, ExpressJS, Bootstrap, Tailwinds, Symfony, Flutter, Meterial UI, Wordpress Redux, Jest],
+  languages_and_Technologies: [Javascript, Ruby, Typescript, HTML, CSS, PHP, SQL, NodeJS],
+  frameworks_and_Libraries: [React, Angular, NestJS, Ruby on Rails, Nx, ExpressJS, Bootstrap, Tailwinds, Symfony, Flutter, Meterial UI, Wordpress Redux, Jest],
   databases_and_Cloud_Hosting: [GitHub Pages, Heroku, Vercel, MySql, MongoDB],
-  sotfware_and_Tools: [Adobe, Vs Code, Git, Brave, Codepen, Postman, Stack Overflow, Docker, NPM],
+  sotfware_and_Tools: [Adobe, Vs Code, Git, Brave, Codepen, Postman, Stack Overflow, Docker, NPM, Yarn],
   hobbies: ["Do-it-yourself", "Watching Anime", "Gaming"]
 }
 ```
